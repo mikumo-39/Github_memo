@@ -1,0 +1,6 @@
+#リポジトリファイル用意
+git init
+git add #入れたいフェイル名
+git commit -m "コメント"
+git remote add origin https://github.com/mikumo-39/Github_memo.git
+git push -u origin master
